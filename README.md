@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @ianmaboi,Located in Kenya, Nairobi
-- 👀 I'm currently learning the backend phase, already sharpening my skills on the frontend and about to finish the fullstack package
-- 🌱 I’m currently a frontend developer
-- 💞️ I’m looking to collaborate on HTML,Javascript and React
-- 📫 How to reach me on Instagram : https://www.instagram.com/bigmannian/?next=%2Fhttps://www.instagram.com/bigmannian/?next=%2F
+# Hello, I'm Ian Maboi! 👋
 
-<!---
-ianmaboi/ianmaboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate frontend developer based in Nairobi, Kenya. Currently, I'm diving into the backend phase and honing my skills to become a full-stack developer. 
+
+## 🚀 About Me
+- 🔭 I'm currently working on mastering the frontend technologies.
+- 🌱 I’m expanding my knowledge to the backend to become a well-rounded developer.
+- 👯 I’m open to collaboration on projects involving HTML, JavaScript, and React.
+
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Flask
+
+## 📫 Let's Connect
+- Instagram: [@bigmannian](https://www.instagram.com/bigmannian/)
+- LinkedIn: 
+- Twitter: 
+
+Feel free to reach out if you want to collaborate, share ideas, or just connect with a fellow developer!
+
