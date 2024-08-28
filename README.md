@@ -9,7 +9,7 @@ I'm a passionate frontend developer based in Nairobi, Kenya. Currently, I'm divi
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Flask
+- Backend: Flask, Python
 
 ## 📫 Let's Connect
 - Instagram: [@bigmannian](https://www.instagram.com/bigmannian/)
